@@ -1,0 +1,31 @@
+produit_id,nom_produit,categorie,prix,stock,date_ajout
+1,Smartphone X,Electronique,599.99,50,2023-01-15
+2,Écouteurs Sans Fil,Electronique,129.99,100,2023-02-01
+3,Livre "Le Monde Moderne",Livres,24.50,200,2023-02-15
+4,Sac à Dos Randonnée,Sports,89.99,30,2023-03-10
+5,Machine à Café,Électroménager,249.99,25,2023-03-20
+6,Tablette Pro,Electronique,449.99,40,2023-04-05
+7,Casque Gaming,Electronique,199.99,60,2023-04-15
+8,Chaussures de Course,Sports,129.99,75,2023-04-25
+9,Roman Policier,Livres,18.99,150,2023-05-01
+10,Enceinte Bluetooth,Electronique,79.99,90,2023-05-10
+11,Vélo de Montagne,Sports,599.99,15,2023-05-20
+12,Drone Caméra,Electronique,349.99,20,2023-05-30
+13,Montre Connectée,Electronique,249.99,45,2023-06-05
+14,Livre de Cuisine,Livres,34.50,100,2023-06-15
+15,Tapis de Yoga,Sports,49.99,60,2023-06-25
+16,Aspirateur Robot,Électroménager,299.99,30,2023-07-01
+17,Livre Science Fiction,Livres,22.99,180,2023-07-10
+18,Lunettes de Soleil,Accessoires,129.99,40,2023-07-20
+19,Écran Ordinateur 4K,Electronique,449.99,25,2023-07-30
+20,Sac de Voyage,Accessoires,99.99,35,2023-08-05
+21,Bouilloire Électrique,Électroménager,59.99,50,2023-08-15
+22,Porte-Clés Connecté,Electronique,39.99,80,2023-08-25
+23,Ballon de Football,Sports,24.99,100,2023-09-05
+24,Encyclopédie Universelle,Livres,49.50,75,2023-09-15
+25,Écouteurs à Réduction de Bruit,Electronique,199.99,45,2023-09-25
+26,Gourde Intelligente,Sports,34.99,60,2023-10-05
+27,Lampe de Bureau LED,Électroménager,79.99,55,2023-10-15
+28,Guide de Voyage,Livres,29.99,90,2023-10-25
+29,Mini-Enceinte Portable,Electronique,49.99,70,2023-11-05
+30,Bracelet de Fitness,Accessoires,89.99,40,2023-11-15

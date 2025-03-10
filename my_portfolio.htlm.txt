@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Portfolio</title>
+    <style>
+        /* Container pour le nom et la photo */
+        .header {
+            display: flex;
+            align-items: center; /* Aligne l'image et le texte verticalement */
+            justify-content: center; /* Centre horizontalement */
+            gap: 20px; /* Espace entre l'image et le texte */
+            margin-top: 20px;
+        }
+
+        /* Style de l'image */
+        .photo {
+            width: 100px; /* Ajuste la taille de la photo */
+            height: 100px;
+            border-radius: 50%; /* Image ronde */
+            border: 2px solid #0a66c2;
+        }
+
+        /* Style du nom */
+        .name {
+            font-size: 24px;
+            font-weight: bold;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <!-- Photo de profil -->
+        <img src="votre_image.jpg" alt="Photo de Symphoria" class="photo">
+
+        <!-- Nom -->
+        <div class="name">Symphoria Daria</div>
+    </div>
+</body>
+</html>
+python -m http.server 8000

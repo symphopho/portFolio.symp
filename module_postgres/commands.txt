@@ -1,0 +1,13 @@
+cd "C:\Program Files\PostgreSQL\17\bin"
+./psql -U postgresdaria
+
+
+/i 
+ou alors :
+psql -U postgres
+Daria
+psql -U postgres
+psql -U postgres -d e_commerce
+
+
+

@@ -1,0 +1,245 @@
+<!DOCTYPE html> 
+<html lang="fr"< ²>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - ADA-BE Symphoria Daria</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+    <script src="https://kit.fontawesome.com/YOUR-KIT.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+    <header>
+        <h1> Bonjour, je suis <span class="highlight">ADA-BE Symphoria Daria</span></h1>
+        <p>Étudiante en Intelligence Artificielle, spécialisée en Automatisation de Bases de Données et Gestion de Projet</p>
+        <a href="#projects" class="btn">Voir mes projets</a>
+    </header>
+    <div class="header">
+        <!-- Photo de profil -->
+        <img src="dada.jpg" alt="Photo de Symphoria" class="photo">
+
+        <!-- Nom -->
+        <div class="name">Symphoria Daria</div>
+    </div>
+
+</body>
+</html>
+<section class="projects">
+    <h2>Mes Projets</h2>
+    <p>Voici mon projet Excel avancé.</p>
+    <a href="fichiers/Symphoria.xlsx" download class="neon-button">Télécharger mon projet Excel</a>
+</section>
+    <div class="skills">
+    <h4>Compétences en gestion de projet</h4>
+    <p>Ce projet m'a permis de développer mes compétences en gestion du temps et en collaboration, en travaillant avec une équipe de 4 personnes pour respecter les délais et assurer la qualité du code.</p>
+</div>
+<section class="about">
+    <h2>À propos de moi</h2>
+    <p>Je suis passionnée par la programmation et la résolution de problèmes. Grâce à mon esprit d'équipe et ma capacité à communiquer efficacement, j'ai mené à bien plusieurs projets collaboratifs avec des résultats réussis.</p>
+</section>
+<div class="process">
+    <h4>Mon Processus de Développement</h4>
+    <p>En suivant la méthodologie Agile, j'ai appris à m'adapter aux besoins changeants du projet tout en travaillant efficacement avec mes coéquipiers. La communication et l'esprit d'équipe ont été des atouts majeurs pour avancer dans ce projet avec succès.</p>
+</div>
+<div class="skills-icons">
+    <img src="teamwork-icon.png" alt="Teamwork" title="Compétences en collaboration" />
+    <img src="time-management-icon.png" alt="Time Management" title="Gestion du temps" />
+</div>
+<section class="career-summary">
+    <h4>Résumé de carrière</h4>
+    <p>Je suis une développeuse passionnée, avec une forte capacité à résoudre des problèmes, travailler en équipe et gérer des projets. Mon attention au détail et ma communication claire m'ont permis de mener à bien plusieurs projets en respectant les délais.</p>
+</section>
+
+    <section id="about">
+        <h2>À propos de moi</h2>
+        <p>Passionnée par l'IA, l'automatisation et la gestion de bases de données. Voici mes compétences :</p>
+        <ul>
+            <li><strong>Analyse et gestion de bases de données :</strong> PostgreSQL, SQL Workbench</li>
+            <li><strong>Programmation et Data Science :</strong> Python, R</li>
+            <li><strong>Automatisation & gestion de projet :</strong> Waalaxy, campagnes emailing, webinaires</li>
+            <li><strong>Gestion de la relation client :</strong> Dolibarr CRM</li>
+            <li><strong>Planification et organisation :</strong> Rétroplanning, suivi client</li>
+            <li><strong>Excel avancé :</strong> Tableaux de bord, automatisation avec Access</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Mes Projets</h2>
+        <div class="projects-container">
+            <div class="project-card">
+                <div class="project-card">
+                    <h3>Automatisation de Bases de Données - Gemalab</h3>
+                    <p>Automatisation des bases de données avec Access.</p>
+                    <a href="https://drive.google.com/file/d/1baZhN6IKrKFus5-hAfiUiGXFEvNFAuvK/view?usp=drive_link" 
+                       target="_blank" class="btn">Voir le projet</a>
+                </div>
+            </div>
+            
+            <div class="project-card">
+                <h3>Projet CNN - Diagnostic IA</h3>
+                <p>Développement d'un modèle IA avec TensorFlow et Keras.</p>
+                <a href="https://drive.google.com/file/d/19diu0ZPDEL5im9gcN9bGljODE1zBL9n5/view?usp=drive_link" class="btn" target="_blank">Voir le code</a>
+            </div>
+            
+            <div class="project-card">
+                <h3>Tableau de Bord avec Excel Avancé</h3>
+                <p>Création d'un tableau de bord interactif pour l'analyse de données.</p>
+                <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQNGZrJKu__ta1t0P8KgW-hyywm8a7uurnMD55TLvdmdTx0vYlPdeIsnqSi35h8-A/pubhtml" 
+                        width="100%" 
+                        height="400" 
+                        style="border: none;">
+                </iframe>
+                <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQNGZrJKu__ta1t0P8KgW-hyywm8a7uurnMD55TLvdmdTx0vYlPdeIsnqSi35h8-A/pubhtml" 
+                   target="_blank" class="btn">Voir en plein écran</a>
+            </div>
+            
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Retrouvez-moi sur :</p>
+        <div class="social-links">
+            <a href="#"><i class="fab fa-linkedin"></i></a>
+            <a href="#"><i class="fab fa-github"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 ADA-BE Symphoria Daria - Tous droits réservés.</p>
+    </footer>
+</body>
+</html> 
+python -m http.server 8000
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Portfolio</title>
+    <!-- Ajouter Font Awesome CDN pour les icônes -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+    <style>
+        .social-links {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .social-links a {
+            text-decoration: none;
+            font-size: 24px;
+            margin: 0 15px;
+            color: #0a66c2; /* Couleur LinkedIn */
+        }
+
+        .social-links a:hover {
+            color: #0e76a8; /* Couleur au survol */
+        }
+
+        .social-links i {
+            margin-right: 8px; /* Espacement entre l'icône et le texte */
+        }
+    </style>
+</head>
+<body>
+    <!-- Contenu de ton portfolio ici -->
+
+    <div class="social-links">
+        <p>Connecte-toi avec moi sur :</p>
+        <!-- Lien LinkedIn avec icône -->
+        <a href="https://www.linkedin.com/in/symphoria-ada-be-70123b2a8" target="_blank">
+            <i class="fab fa-linkedin"></i> LinkedIn
+        </a>
+        <!-- Lien Email avec icône -->
+        <a href="mailto:Symphoriada@gmail.com">
+            <i class="fas fa-envelope"></i> Email
+        </a>
+    </div>
+
+    <!-- Fin du contenu -->
+</body>
+</html>
+<a href="https://drive.google.com/your-shared-folder-link" target="_blank">Accéder au dossier Gemalab</a>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Portfolio</title>
+    <style>
+        /* Container pour le nom et la photo */
+        .header {
+            display: flex;
+            align-items: center; /* Aligne l'image et le texte verticalement */
+            justify-content: center; /* Centre horizontalement */
+            gap: 20px; /* Espace entre l'image et le texte */
+            margin-top: 20px;
+        }
+
+        /* Style de l'image */
+        .photo {
+            width: 100px; /* Ajuste la taille de la photo */
+            height: 100px;
+            border-radius: 50%; /* Image ronde */
+            border: 2px solid #0a66c2;
+        }
+
+        /* Style du nom */
+        .name {
+            font-size: 24px;
+            font-weight: bold;
+            color: #333;
+        }
+
+        /* Style pour les projets */
+        .project {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            margin-top: 30px;
+            justify-content: center;
+        }
+
+        .project img {
+            width: 80px;
+            height: 80px;
+        }
+
+        .project-info {
+            font-size: 18px;
+            color: #333;
+            max-width: 600px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+
+        <!-- Nom -->
+        <div class="name">Symphoria Daria</div>
+    </div>
+
+    <div class="project">
+        <!-- Image de Waalaxy -->
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Waalaxy_logo.png/1200px-Waalaxy_logo.png" alt="Logo de Waalaxy">
+
+        <!-- Description du projet -->
+        <div class="project-info">
+            <p>Utilisation de l'outil <strong>Waalaxy</strong> pour la prospection et l'automatisation des processus commerciaux. Cet outil m'a permis de gérer efficacement des campagnes de prospection, d'automatiser des tâches et d'analyser les résultats, ce qui a considérablement amélioré mon efficacité dans la gestion des leads.</p>
+        </div>
+    </div> 
+    <!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+   

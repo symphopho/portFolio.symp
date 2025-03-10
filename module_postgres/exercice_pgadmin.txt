@@ -1,0 +1,4 @@
+cd "C:\Program Files\PostgreSQL\17\bin"
+./psql -U postgresdaria
+
+\i 'C:/Users/symph/Downloads/clubdata.sql'
